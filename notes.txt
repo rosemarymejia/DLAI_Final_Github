@@ -1,0 +1,11 @@
+https://www.kaggle.com/datasets/ninadaithal/imagesoasis/data
+
+https://sites.wustl.edu/oasisbrains/
+
+https://www.kaggle.com/code/tarunkarli/alzimer-s-detection-using-image-classification
+
+/// Changing Project to Image Classification for diagnostic purposes
+
+
+
+Also would be interested in: https://www.kaggle.com/competitions/child-mind-institute-problematic-internet-use/data
